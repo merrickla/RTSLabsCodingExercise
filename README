@@ -1,0 +1,5 @@
+Hello!
+Thank you for the opportunity to try out this exercise. Hopefully you find it to your liking!
+It's constructed less as a single test in an otherwise empty repository, and more as the beginning framework to a repository that only has one test.
+The test itself is located within src/test/java/SeleniumTest using TestNG/JUnit.
+The test assumes that the box it is running on already has Chrome installed.
